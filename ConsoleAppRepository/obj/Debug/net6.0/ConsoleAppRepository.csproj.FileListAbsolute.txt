@@ -1,0 +1,12 @@
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\bin\Debug\net6.0\ConsoleAppRepository.deps.json
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\bin\Debug\net6.0\ConsoleAppRepository.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\bin\Debug\net6.0\ConsoleAppRepository.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\refint\ConsoleAppRepository.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ConsoleAppRepository.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\ConsoleApp\ConsoleAppRepository\obj\Debug\net6.0\ref\ConsoleAppRepository.dll
